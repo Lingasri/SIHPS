@@ -28,8 +28,7 @@ Routing Services: Integration with mapping and routing services to provide users
 User Experience (UX): A focus on creating a seamless and user-friendly experience, making it easy for users to find and recycle their E-Waste.
 The architecture diagram for such a system could look like this:
 
-![image](https://github.com/KayyuruTharani/SIHPS/assets/142209319/aafad0a8-40c7-4c14-9ff2-2545aa4db1e1)
-
+![image](https://github.com/Lingasri/SIHPS/assets/143391929/ee3aef11-e030-4b26-82fb-9ac99503c00f)
 
 ## Use Cases
 Locating Nearby Facilities: Users can find the nearest e-waste recycling centers or drop-off points, making it convenient for them to responsibly dispose of their electronic waste. This helps in preventing e-waste from being improperly disposed of in landfills,which can harm the environment.
@@ -41,8 +40,9 @@ Regulatory Compliance: Businesses and organizations can use the locator to ensur
 Promoting Sustainable Practices: By encouraging individuals and businesses to recycle their electronic waste, the locator promotes sustainable practices and contributes to the conservation of natural resources. 
 
 Data Collection and Analysis: The use of a locator can also help in gathering data on e-waste disposal patterns, such as the types and quantities of electronic devices being recycled and the geographic distribution of recycling activities.
+![image](https://github.com/Lingasri/SIHPS/assets/143391929/f4f4dda8-f2ff-4bae-bbf9-8e878e056d59)
 
-![image](https://github.com/Lingasri/SIHPS/assets/143391929/ee3aef11-e030-4b26-82fb-9ac99503c00f)
+
 
 
 ## Technology Stack
